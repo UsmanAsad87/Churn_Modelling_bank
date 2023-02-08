@@ -2,7 +2,7 @@
 The challenge is to investigate the high customer churn rate at a bank and provide insights to address the problem. This will involve analyzing a dataset to understand the reasons for the high churn rate and presenting recommendations to address the issue.
 <br/>
 <br/>
-Churn rate refers to the percentage of customers who leave a company or stop using its services over a given time period. In the context of a bank, it refers to customers who close their accounts or switch to a different financial institution. A high churn rate can be an indicator of dissatisfaction with the bank's services or a lack of customer loyalty, and it can have a significant impact on the bank's revenue and growth.
+Churn modeling using Artificial Neural Network (ANN) is the process of using machine learning algorithms to predict customer churn, or the likelihood that a customer will stop doing business with a company. The goal of churn modeling is to identify customers who are at risk of leaving, so that the company can take action to prevent them from leaving.
 <br/>
 
 
